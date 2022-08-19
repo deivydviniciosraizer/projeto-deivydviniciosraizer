@@ -1,0 +1,27 @@
+
+body {
+    background: #F8F8FF;
+    }
+
+
+h1 {
+    text-align: center;
+    border: 10px solid ##000000
+}
+
+#imagem-primeira {
+    width: 20%
+}
+
+#imagem-segunda {
+    width: 25%
+    
+}
+
+#imagem-terceira {
+    width: 25%
+}
+
+.itens {
+    font-style: italic;
+}
